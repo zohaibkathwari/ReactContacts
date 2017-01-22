@@ -1,0 +1,33 @@
+{
+  "name": "reactor",
+  "version": "1.0.0",
+  "description": "test contact app",
+  "main": "server.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "keywords": [
+    "Express",
+    "React",
+    "Facebook"
+  ],
+  "author": "zuhaib kathwari",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.3",
+    "mongojs": "^2.4.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "socket.io": "^1.7.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "parse-body": "^1.0.3",
+    "socketio-file-upload": "^0.5.2",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}

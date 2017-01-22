@@ -1,2 +1,2 @@
-# ReactContacts
-A Test ReactJS App 
+#react-contact
+#test ReactJS stack
