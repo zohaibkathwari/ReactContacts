@@ -1,6 +1,3 @@
-/**
- * Created by Zuhaib on 1/22/2017.
- */
 import React from 'react';
 import ReactDOM from 'react-dom';
 

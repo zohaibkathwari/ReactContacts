@@ -1,17 +1,3 @@
-/**
- * Created by Zuhaib on 1/22/2017.
- */
-
-/*var HtmlWebpackPlugin = require('html-webpack-plugin');*/
-/*var webpackConfig = {
-    entry: './main.js',
-    output: {
-        path: './dist',
-        filename: 'index.js'
-    },
-    plugins: [new HtmlWebpackPlugin()]
-};*/
-
 var config = {
     entry: './public/main.js',
 
