@@ -1,2 +1,5 @@
-#react-contact
-#test ReactJS stack
+#ReactJS Test App
+
+npm install
+npm start
+
